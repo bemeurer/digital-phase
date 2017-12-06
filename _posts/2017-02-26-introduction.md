@@ -12,7 +12,7 @@ share: true
 
 Hi, we're Bernardo and Daniel.
 This is **DigitalPhase**, our blog about audio equipment.
-Bernardo is an audiophile, CS student.
+Bernardo is a CS student and an audiophile who likes to argue about Leibniz and free software.
 Daniel is an experimental physicist who's handy with an oscilloscope and knows something about signal processing.
 One day, Daniel and Bernardo were chatting online and Bernardo was ranting about how the disconnect between the audiophile community and real understanding of signal processing makes it so hard to evaluate claims made in commercial marketing (lightly edited for clarity):
 
