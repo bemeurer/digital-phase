@@ -20,48 +20,34 @@ One day, Daniel and Bernardo were chatting online and Bernardo was ranting about
 
 **(B)ernardo:** When Schiit starts blabbering about their filter I have absolutely no fucking clue what they are trying to say.
 
-**(D)aniel:** Neither do I.
-
+**(D)aniel:** Neither do I.  
 Those rants smell like bs to me.
 
 **B:** http://schiit.com/products/yggdrasil
 
-**D:** Like I said, I do not care whether your damned filter coefficients are analytically computed or numerically approximated.
-
-Right, *"see 1917 papers"*. I do not care how old the papers were that you read.
-
-*"...the phase info in the original samples..."*
-
+**D:** Like I said, I do not care whether your damned filter coefficients are analytically computed or numerically approximated.  
+Right, *"see 1917 papers"*. I do not care how old the papers were that you read.  
+*"...the phase info in the original samples..."*  
 There is no phase information in digital samples.
 
 **B:** There isn't?
 
-**D:** no
+**D:** no  
+Time domain samples mean the level of the sound pressure at that time.  
+It's a scalar.  
+One number.  
 
-Time domain samples mean the level of the sound pressure at that time.
-
-It's a scalar.
-
-One number.
-
-**B:** Write him an email.
-
-Call him out on it.
-
-Please.
-
-Then if they have no good answer, post it on Head-Fi and make the whole community a favour.
-
-Like, everyone will thank you so much if you debunk something like this.
-
+**B:** Write him an email.  
+Call him out on it.  
+Please.  
+Then if they have no good answer, post it on Head-Fi and make the whole community a favour.  
+Like, everyone will thank you so much if you debunk something like this.  
 We should start a blog dedicated JUST to calling people out on this crap.
 
-**D:** Ho boy.
-
-I would be 100% on board to be the "technical advice" on that blog.
-You're the audiophile, I'm the math/engineer.
-
-I love this idea already.
+**D:** Ho boy.  
+I would be 100% on board to be the "technical advice" on that blog.  
+You're the audiophile, I'm the math/engineer.  
+I love this idea already.  
 
 Make git repo.
 
